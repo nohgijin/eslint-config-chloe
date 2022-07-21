@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/nohgijin/eslint-config-chloe#readme",
   "peerDependencies": {
-    "eslint": "^8.20.0",
+    "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.24.2",
