@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/nohgijin/eslint-config-chloe#readme",
   "peerDependencies": {
-    "eslint": ">=6",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint": "^8.20.0",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
