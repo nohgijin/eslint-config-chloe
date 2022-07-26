@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-chloe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nohgijin/eslint-config-chloe.git"
+  },
+  "author": "nohgijin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nohgijin/eslint-config-chloe/issues"
+  },
+  "homepage": "https://github.com/nohgijin/eslint-config-chloe#readme",
+  "peerDependencies": {
+    "eslint": ">=6",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
