@@ -2,7 +2,6 @@ module.exports = {
   "parser": "@typescript-eslint/parser",
   "plugins": [
     "@typescript-eslint",
-    "prettier",
     "jsx-a11y",
     "import"
   ],
@@ -17,6 +16,7 @@ module.exports = {
     "prettier"
   ],
   "rules": {
+    "arrow-body-style": ["error", "always"],
     "linebreak-style": 0,
     "import/prefer-default-export": 0,
     "import/extensions": 0,
@@ -100,19 +100,6 @@ module.exports = {
         "newlines-between": "always"
       }
     ],
-    "prettier/prettier": [
-      "error",
-      {
-        "singleQuote": false,
-        "semi": true,
-        "useTabs": false,
-        "tabWidth": 2,
-        "trailingComma": "all",
-        "printWidth": 80,
-        "arrowParens": "always",
-        "bracketSpacing": true
-      }
-    ]
   },
   "parserOptions": {
     "ecmaVersion": 2017
