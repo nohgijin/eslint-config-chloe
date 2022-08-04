@@ -1,0 +1,9 @@
+```
+// .eslintrc
+
+{
+  "extends": [
+    "cmi"
+  ]
+}
+```
